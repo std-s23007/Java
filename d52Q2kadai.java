@@ -21,6 +21,6 @@ class Tester {
 	public void test() {
 		Temper t = new Temper();
 		t.setTemperature(17.2);
-		System.out.println("Temperature is set to: " + t.getTemperature());
+		System.out.println(t.getTemperature());
 	}
 }
