@@ -38,7 +38,7 @@ class Cat extends Animal {
 }
 
 
-public class d48Q2kadi {
+public class d48Q2kadai {
 	public static void main(String[] args) {
 		Animal a = new Dog(); // インスタンス化
 		Animal b = new Cat(); // インスタンス化
